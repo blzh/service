@@ -35871,11 +35871,11 @@ u[1]=C.i.eX(u[1])
 u[2]=C.i.eX(u[2])
 u[3]=C.i.eX(u[3])}}
 F.yz.prototype={
-P:function(a){var u=null
-return new S.l7(new F.yA("\u6211\u7684web\u9875\u9762",u),"\u6211\u7684web\u9875\u9762",X.lX(u,u,C.cK,u),u)}}
+P:function(a){var u="\u5218\u8d62\u5bb6\u7530\u8d62\u5bb6\u9c8d\u50bb\u903c",t=null
+return new S.l7(new F.yA(u,t),u,X.lX(t,t,C.cK,t),t)}}
 F.yA.prototype={
 P:function(a){var u=null,t=L.IJ(this.c,u)
-return new M.jr(new E.nd(t,new Q.am(1/0,56),u),new T.iz(C.a7,u,u,T.NQ(H.f([L.IJ("Hello, World!",u)],[N.aF]),C.hq),u),u)}};(function aliases(){var u=J.h.prototype
+return new M.jr(new E.nd(t,new Q.am(1/0,56),u),new T.iz(C.a7,u,u,T.NQ(H.f([L.IJ("\u5218\u8d62\u5bb6\u7530\u8d62\u5bb6\u9c8d\u50bb\u903c",u)],[N.aF]),C.hq),u),u)}};(function aliases(){var u=J.h.prototype
 u.w8=u.i
 u.w7=u.jI
 u=J.o_.prototype
